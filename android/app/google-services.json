@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708258166471",
+    "firebase_url": "https://expertize-9e28a-default-rtdb.firebaseio.com",
+    "project_id": "expertize-9e28a",
+    "storage_bucket": "expertize-9e28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708258166471:android:9ef54da4473ec87c0030e2",
+        "android_client_info": {
+          "package_name": "com.example.experttrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708258166471-69m78sh540q13c8cc4q1be932j6dqcah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2RIzGNDH6Jf_mnEjOhJ_ill7L1GD2_Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708258166471-69m78sh540q13c8cc4q1be932j6dqcah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
